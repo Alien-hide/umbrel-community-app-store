@@ -1,2 +1,2 @@
-id: "alien-hide-community-store" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "Alien_hide" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "alien" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "Alien" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
